@@ -1,6 +1,6 @@
 
 
-# JWT Authentication Lab (Express.js)
+# JWT Authentication Lab 
 
 This is a template-based Express.js project demonstrating **JWT-based authentication and authorization** without using a database. Users are stored in an in-memory array with hashed passwords using bcrypt.
 
