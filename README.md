@@ -11,10 +11,15 @@ This is a template-based Express.js project demonstrating **JWT-based authentica
 
 
 jwt-auth-lab/
+
 ├── server.js // Main application file
+
 ├── users.js // In-memory user storage
+
 ├── authMiddleware.js // Authentication & authorization logic
+
 ├── package.json
+
 └── README.md
 
 
