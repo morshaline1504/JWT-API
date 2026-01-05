@@ -38,7 +38,7 @@ Passwords are hashed using `bcrypt`.
 1. Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_URL>
+git clone <https://github.com/morshaline1504/JWT-API>
 
 
 Install dependencies:
